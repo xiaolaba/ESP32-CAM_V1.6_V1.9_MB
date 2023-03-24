@@ -17,9 +17,14 @@ https://github.com/xiaolaba/ESP32_SD_Test_SPI-14-2-15-13
 
 
 ### ESP32-CAM V1.9, selling with ESP32-CAM-MB bundled  
-a new version, slightly modified design, RESET pin connected to one spare GND pin, 2 more resistors included, we may call ESP32-CAM V1.9. The ESP32 core is V3, but metal can is identical laser marking of ESP32-S & FCC ID. the is no schematic, but a hand written copy is obtained
+a new version, slightly modified design, RESET pin connected to one spare GND pin, 2 more resistors included, we may call ESP32-CAM V1.9. The ESP32 core is V3, but metal can is identical laser marking of ESP32-S & FCC ID. the is no schematic, but a hand written copy is obtained.
 
 ![ESP32-CAM_V1.9_schematic.JPG](ESP32-CAM_V1.9_schematic.JPG)  
+
+
+the complete package selling in year 2023, ESP32-CAM V1.9, and the ESP32-CAM-MB, one of clone or variants, only USB-UART chip and 3.3V LDO.  
+![ESP32-CAM_V1.9_MB.JPG](ESP32-CAM_V1.9_MB.JPG)  
+
 
 ### ESP32-CAM V1.6, how to upgrade to V1.9 to uses with ESP32-CAM-MB
 cut the PCB trace, isolate the GND connection, solder a wire from ESP32-S reset point to the pinhead  
