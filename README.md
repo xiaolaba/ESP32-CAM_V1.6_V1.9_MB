@@ -22,12 +22,13 @@ a new version, slightly modified design, RESET pin connected to one spare GND pi
 ![ESP32-CAM_V1.9_schematic.JPG](ESP32-CAM_V1.9_schematic.JPG)  
 
 
-the complete package selling in year 2023, ESP32-CAM V1.9, and the ESP32-CAM-MB, one of clone or variants, only USB-UART chip and 3.3V LDO.  
+the complete package selling in year 2023, ESP32-CAM V1.9, and the ESP32-CAM-MB, one of clone or variants, only USB-UART chip CH340C and 3.3V LDO.  
 ![ESP32-CAM_V1.9_MB.JPG](ESP32-CAM_V1.9_MB.JPG)  
 
 
 ### ESP32-CAM V1.6, how to upgrade to V1.9 to uses with ESP32-CAM-MB
-cut the PCB trace, isolate the GND connection, solder a wire from ESP32-S reset point to the pinhead  
+see green-rectangle, to cut the PCB trace, isolate the GND connection, solder a wire from ESP32-S reset point to the pinhead.  
+see blue-rectangel, two more resistors in contrast to V1.6  
 ![ESP32-CAM_V1.6_V1.9_modification.JPG](ESP32-CAM_V1.6_V1.9_modification.JPG)  
 
 
