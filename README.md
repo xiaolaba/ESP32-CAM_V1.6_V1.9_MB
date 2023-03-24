@@ -32,3 +32,7 @@ see blue-rectangel, two more resistors in contrast to V1.6
 ![ESP32-CAM_V1.6_V1.9_modification.JPG](ESP32-CAM_V1.6_V1.9_modification.JPG)  
 
 
+### ESP32-CAM V1.6, how to upgrade by yourself and more reliable  
+ESP32-S core, V1 and V3, current hungry is a noticeable difference, the same ESP32-CAM-MB used. ESP-CAM V1.6 is constanly halt during opeation, 1117 LDO supply 3.3V to the SoC, input terminal has no any buffer capacitor, the designer was saving few cents but many of the users had been suffering strange problem like no download, instability etc., by adding a 22uF/10 capacitor to the LDO input, it works like a charm, problem solved.
+![ESP32-CAM_V1.6_upgrade_LDO.JPG](ESP32-CAM_V1.6_upgrade_LDO.JPG)  
+
