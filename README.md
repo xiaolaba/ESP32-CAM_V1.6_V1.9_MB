@@ -32,7 +32,7 @@ the complete package selling in year 2023, ESP32-CAM V1.9, and the ESP32-CAM-MB,
 
 ### ESP32-CAM V1.6, how to upgrade to V1.9 to uses with ESP32-CAM-MB
 see green-rectangle, to cut the PCB trace, isolate the GND connection, solder a wire from ESP32-S reset point to the pinhead.  
-see blue-rectangel, two more resistors in contrast to V1.6  
+see blue-rectangle, two more resistors (4 pads, 2-empty, 2 used, 0 ohm jumper-resistor to select GND or RESET, the funcitonal) in contrast to V1.6  
 ![ESP32-CAM_V1.6_V1.9_modification.JPG](ESP32-CAM_V1.6_V1.9_modification.JPG)  
 
 
