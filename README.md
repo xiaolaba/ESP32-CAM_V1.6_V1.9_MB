@@ -1,5 +1,8 @@
 # ESP32-CAM_V1.6_V1.9_MB
-ESP32-CAM-MB, base module design, schematic, ESP32-CAM V1.6 modification to uses external RESET pin and the auto download, upgrade to ESP32-CAM V1.9.  
+* ESP32-CAM-MB, base module design, schematic,  
+* ESP32-CAM V1.6 modification to uses external RESET pin and the auto download, 
+* ESP32-CAM V1.6 modification, more stable,  
+* upgrade to ESP32-CAM V1.9.  
 
 looks like V1.6 is the same as V1.9, really ?  
 ![ESP32-CAM_V1.6_V1.9_ESP32-S_CAN.JPG](ESP32-CAM_V1.6_V1.9_ESP32-S_CAN.JPG)  
