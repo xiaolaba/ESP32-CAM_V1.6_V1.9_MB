@@ -1,8 +1,8 @@
 # ESP32-CAM_V1.6_V1.9_MB
-* ESP32-CAM-MB, base module design, schematic,  
+* [ESP32-CAM-MB, base module design, schematic](https://github.com/xiaolaba/ESP32-CAM_V1.6_V1.9_MB/blob/main/README.md#esp32-cam-v19-selling-with-esp32-cam-mb-bundled)    
 * [ESP32-CAM V1.6 modification to uses external RESET pin and the auto download](https://github.com/xiaolaba/ESP32-CAM_V1.6_V1.9_MB/blob/main/README.md#ai-thinker-esp32-cam-no-exposed-reset-pin)  
-* ESP32-CAM V1.6 modification, more stable,  
-* upgrade to ESP32-CAM V1.9.  
+* [ESP32-CAM V1.6 modification, more stable](https://github.com/xiaolaba/ESP32-CAM_V1.6_V1.9_MB/blob/main/README.md#esp32-cam-v16-how-to-upgrade-by-yourself-and-more-reliable)   
+* [upgrade to ESP32-CAM V1.9](https://github.com/xiaolaba/ESP32-CAM_V1.6_V1.9_MB/blob/main/README.md#esp32-cam-v16-how-to-upgrade-to-v19-to-uses-with-esp32-cam-mb)  
 
 looks like V1.6 is the same as V1.9, really ?  
 ![ESP32-CAM_V1.6_V1.9_ESP32-S_CAN.JPG](ESP32-CAM_V1.6_V1.9_ESP32-S_CAN.JPG)  
