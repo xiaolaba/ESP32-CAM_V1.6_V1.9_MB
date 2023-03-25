@@ -15,7 +15,7 @@ either clone or the original design, ESP32-S module pin3 = RESET, only connected
 
 ![ESP32-CAM_V1.6_SCHEMATIC.jpg](ESP32-CAM_V1.6_SCHEMATIC.jpg)  
 
-see log here, 
+see log here,   
 https://github.com/xiaolaba/ESP32-CAM_blink  
 https://github.com/xiaolaba/ESP32-CAM_OV2460_testing  
 https://github.com/xiaolaba/ESP32-CAM-SD  
